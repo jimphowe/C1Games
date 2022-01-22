@@ -1,6 +1,5 @@
 Terminal competition: https://terminal.c1games.com
 
-Top ten screenshot
 <img width="762" alt="Screen Shot 2021-10-01 at 9 36 28 AM" src="https://user-images.githubusercontent.com/47761479/150644870-ac1d497b-f8a5-49ad-a9d1-9e9ed96c04ba.png">
 
 # C1GamesStarterKit
